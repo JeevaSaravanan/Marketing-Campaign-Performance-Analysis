@@ -80,8 +80,8 @@ By leveraging this dataset, marketers and data analysts can uncover valuable ins
 
 <div align="center">
 
-<a href="https://jeevasaravanan.medium.com/">![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)</a> <a href="https://www.linkedin.com/in/jeeva-saravanan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-[![Portfolio](https://img.shields.io/badge/Portfolio-jeeva-saravana-bhavanandam-ff69b4?style=for-the-badge&logo=GoogleChrome&logoColor=white)]([https://yourwebsite.com](https://jeeva-saravana-bhavanandam.web.app))
+<a href="https://jeevasaravanan.medium.com/" target="_blank">![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)</a> <a href="https://www.linkedin.com/in/jeeva-saravanan/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://jeeva-saravana-bhavanandam.web.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"></a>
+
 
 </div>
 
